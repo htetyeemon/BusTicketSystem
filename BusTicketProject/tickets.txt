@@ -1,5 +1,1 @@
-hrer,1010,Las Vegas to Phoenix,[1, 2, 3, 4],159.96
-afda,1010,Las Vegas to Phoenix,[5],39.99
-sdfasd,1010,Las Vegas to Phoenix,[13, 14, 15],119.97
-wre,1010,Las Vegas to Phoenix,[6],39.99
-htet,909,Washington DC to Philadelphia,[1, 2, 3, 4],79.96
+
