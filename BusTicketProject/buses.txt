@@ -1,0 +1,10 @@
+101,New York to Boston,50,35.99,
+202,Los Angeles to San Francisco,60,49.99,
+303,Chicago to Detroit,45,29.99,
+404,Dallas to Houston,55,25.99,
+505,Seattle to Portland,40,22.99,
+606,Miami to Orlando,50,27.99,
+707,Denver to Colorado Springs,35,15.99,
+808,Atlana to Nashville,45,32.99,
+909,Washington DC to Philadelphia,40,19.99,1|2|3|4
+1010,Las Vegas to Phoenix,50,39.99,1|2|3|4|5|6|13|14|15
