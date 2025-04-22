@@ -61,7 +61,7 @@ public class Bus {
         }
 
         String booked;
-        if (!sb.isEmpty()) {
+        if (sb.length() > 0) {
             // Remove the last extra "|"
             booked = sb.substring(0, sb.length() - 1);
         } else {
