@@ -1,3 +1,14 @@
+/**
+ * Demonstrates KEYBOARD INPUT and VALIDATION
+ * - Scanner provides easy input parsing
+ * - Input validation prevents invalid data
+ * - Regex for email validation ensures proper format
+ 
+* Demonstrates EXCEPTION HANDLING for input
+* - Prevents crashes from invalid numbers
+* - Provides user-friendly error messages
+ */
+
 import java.util.*;
 import java.util.regex.Pattern;
 

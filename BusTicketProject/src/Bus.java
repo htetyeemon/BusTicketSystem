@@ -1,3 +1,9 @@
+/**
+ * Demonstrates COLLECTIONS and ENCAPSULATION
+ * - Uses Set<Integer> for distinct seat management
+ * - Provides built-in methods for seat operations(eg.contains(),add())
+ */
+
 import java.util.*;
 
 public class Bus {
@@ -14,6 +20,12 @@ public class Bus {
         this.price = price;
         this.bookedSeats = bookedSeats != null ? bookedSeats : new HashSet<>();
     }
+
+    /**
+     * Demonstrates INPUT VALIDATION (2.4)
+     * - Prevents invalid seat bookings
+     * - Returns boolean for clear success/failure
+     */
 
     public boolean bookSeat(int seatNumber) {
         if (seatNumber < 1 || seatNumber > totalSeats || bookedSeats.contains(seatNumber)) {

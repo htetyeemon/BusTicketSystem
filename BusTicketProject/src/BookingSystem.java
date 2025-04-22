@@ -1,3 +1,13 @@
+/**
+ * Demonstrates FILE I/O and EXCEPTION HANDLING
+ * - Persists data between program runs
+ * - Uses standard file format for buses/tickets
+ * 
+ * Why exception handling good:
+ * - Prevents crashes from file errors
+ * - Provides fallback (default buses) when files missing
+ */
+
 import java.util.*;
 import java.io.*;
 
